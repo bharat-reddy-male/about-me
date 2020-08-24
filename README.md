@@ -20,4 +20,4 @@ Since I have already worked in the industry for quite a good time, I am planning
 
 ### And this is me:
 
-![Bharat's Picture](/assets/bharat.jpeg "Bharat Reddy")
+![Bharat's Picture](/Assets/bharat.jpeg "Bharat Reddy")
