@@ -18,6 +18,14 @@ Since I have already worked in the industry for quite a good time, I am planning
 2. View few on my projects of [GitHub](https://github.com/bharat-reddy-male)
 3. Check my simple react native project [TODO lists](https://expo.io/@bruu0427/TODO_lists) hosted using expo client
 
+4. A repository created for counting words using the curl and linux commands. [shell-data-processing](https://github.com/bharat-reddy-male/shell-data-processing)
+
+## Skills
+1. Python
+2. JAVA
+3. React
+4. Big-data
+
 ### And this is me:
 
 ![Bharat's Picture](/Assets/bharat.jpeg "Bharat Reddy")
